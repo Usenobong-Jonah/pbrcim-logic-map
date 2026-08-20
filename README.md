@@ -13,6 +13,12 @@ The tool is built around the **Pattern-Based Root Cause Isolation Model (PBRCIM)
 > **Core question:** What pattern was supposed to happen, and where did that intent diverge?
 
 ---
+## Interface Preview
+
+![PBRCIM Logic-Map Interface](screenshots/pbrcim-logic-map-interface.png)
+
+PBRCIM Logic-Map provides a structured side-by-side workspace for tracing expected and observed system behavior, isolating divergence points, and documenting the full investigation.
+<img width="1366" height="768" alt="pbrcim-logic-map-interface" src="https://github.com/user-attachments/assets/eb7e4eea-8939-416c-bc0a-6ea2d2177b60" />
 
 ## What It Does
 
